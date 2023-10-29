@@ -1,0 +1,33 @@
+com.eye.pullrefreshwithrecyclerview.app-pngs-0 C:\Users\ahmad\AndroidStudioProjects\PullRefreshwithRecyclerView\app\build\generated\res\pngs\debug
+com.eye.pullrefreshwithrecyclerview.app-resValues-1 C:\Users\ahmad\AndroidStudioProjects\PullRefreshwithRecyclerView\app\build\generated\res\resValues\debug
+com.eye.pullrefreshwithrecyclerview.app-packageDebugResources-2 C:\Users\ahmad\AndroidStudioProjects\PullRefreshwithRecyclerView\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.eye.pullrefreshwithrecyclerview.app-packageDebugResources-3 C:\Users\ahmad\AndroidStudioProjects\PullRefreshwithRecyclerView\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.eye.pullrefreshwithrecyclerview.app-merged_res-4 C:\Users\ahmad\AndroidStudioProjects\PullRefreshwithRecyclerView\app\build\intermediates\merged_res\debug
+com.eye.pullrefreshwithrecyclerview.app-debug-5 C:\Users\ahmad\AndroidStudioProjects\PullRefreshwithRecyclerView\app\src\debug\res
+com.eye.pullrefreshwithrecyclerview.app-main-6 C:\Users\ahmad\AndroidStudioProjects\PullRefreshwithRecyclerView\app\src\main\res
+com.eye.pullrefreshwithrecyclerview.app-lifecycle-viewmodel-savedstate-2.5.1-7 D:\gradle android studio\caches\transforms-3\0d19382919f88a9b4061aed5d8f79df2\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.eye.pullrefreshwithrecyclerview.app-drawerlayout-1.1.1-8 D:\gradle android studio\caches\transforms-3\0f3876d718237e4aa54a5f967de1cea1\transformed\drawerlayout-1.1.1\res
+com.eye.pullrefreshwithrecyclerview.app-savedstate-1.2.0-9 D:\gradle android studio\caches\transforms-3\1b47c9a0713b132f9379bc1bd71eb8b7\transformed\savedstate-1.2.0\res
+com.eye.pullrefreshwithrecyclerview.app-constraintlayout-2.1.4-10 D:\gradle android studio\caches\transforms-3\30f4c334bb9586b8299d31214a27cc88\transformed\constraintlayout-2.1.4\res
+com.eye.pullrefreshwithrecyclerview.app-recyclerview-1.3.1-11 D:\gradle android studio\caches\transforms-3\3baa5477677657ac9c80991fdcccab93\transformed\recyclerview-1.3.1\res
+com.eye.pullrefreshwithrecyclerview.app-core-ktx-1.9.0-12 D:\gradle android studio\caches\transforms-3\414f4817c253d6f91d9bef1026444a20\transformed\core-ktx-1.9.0\res
+com.eye.pullrefreshwithrecyclerview.app-annotation-experimental-1.3.0-13 D:\gradle android studio\caches\transforms-3\4f735b77350aefc156737b8f9bd0fa95\transformed\annotation-experimental-1.3.0\res
+com.eye.pullrefreshwithrecyclerview.app-core-1.9.0-14 D:\gradle android studio\caches\transforms-3\55dedc70b95a473650eda30d4efd0f99\transformed\core-1.9.0\res
+com.eye.pullrefreshwithrecyclerview.app-emoji2-1.2.0-15 D:\gradle android studio\caches\transforms-3\58734ab3db9d01442ffac75a0ea2bc68\transformed\emoji2-1.2.0\res
+com.eye.pullrefreshwithrecyclerview.app-lifecycle-viewmodel-2.5.1-16 D:\gradle android studio\caches\transforms-3\635ca0926e7ae12920cc06583e7e643f\transformed\lifecycle-viewmodel-2.5.1\res
+com.eye.pullrefreshwithrecyclerview.app-cardview-1.0.0-17 D:\gradle android studio\caches\transforms-3\64a2d392994452577a480e11197fabd6\transformed\cardview-1.0.0\res
+com.eye.pullrefreshwithrecyclerview.app-coordinatorlayout-1.1.0-18 D:\gradle android studio\caches\transforms-3\671a06b1893081f2c8ad60f3958f34d7\transformed\coordinatorlayout-1.1.0\res
+com.eye.pullrefreshwithrecyclerview.app-lifecycle-process-2.4.1-19 D:\gradle android studio\caches\transforms-3\75d35fda4271de3dc184847093d1a2b0\transformed\lifecycle-process-2.4.1\res
+com.eye.pullrefreshwithrecyclerview.app-appcompat-resources-1.6.1-20 D:\gradle android studio\caches\transforms-3\802b9a5c342fc698ed20453692f600f7\transformed\appcompat-resources-1.6.1\res
+com.eye.pullrefreshwithrecyclerview.app-emoji2-views-helper-1.2.0-21 D:\gradle android studio\caches\transforms-3\81028e0bfde4e42324f9598bd0a1540c\transformed\emoji2-views-helper-1.2.0\res
+com.eye.pullrefreshwithrecyclerview.app-viewpager2-1.1.0-beta02-22 D:\gradle android studio\caches\transforms-3\8db446a4ce50c01ef5ade68df1661dab\transformed\viewpager2-1.1.0-beta02\res
+com.eye.pullrefreshwithrecyclerview.app-startup-runtime-1.1.1-23 D:\gradle android studio\caches\transforms-3\93f5cf0a528f6c584155b8d377574b65\transformed\startup-runtime-1.1.1\res
+com.eye.pullrefreshwithrecyclerview.app-transition-1.2.0-24 D:\gradle android studio\caches\transforms-3\98523101c9963e531757127a1e8b685c\transformed\transition-1.2.0\res
+com.eye.pullrefreshwithrecyclerview.app-lifecycle-livedata-core-2.5.1-25 D:\gradle android studio\caches\transforms-3\99ff0d1b0b58f543535c2844bca76b18\transformed\lifecycle-livedata-core-2.5.1\res
+com.eye.pullrefreshwithrecyclerview.app-lifecycle-runtime-2.5.1-26 D:\gradle android studio\caches\transforms-3\a1711c7657d9e0fdc630daf2a0e3e72b\transformed\lifecycle-runtime-2.5.1\res
+com.eye.pullrefreshwithrecyclerview.app-material-1.5.0-27 D:\gradle android studio\caches\transforms-3\a965dbd46dad388efad08cc8f6d01086\transformed\material-1.5.0\res
+com.eye.pullrefreshwithrecyclerview.app-swiperefreshlayout-1.1.0-28 D:\gradle android studio\caches\transforms-3\b0f8b6b759cfc323328c80f60ce321ec\transformed\swiperefreshlayout-1.1.0\res
+com.eye.pullrefreshwithrecyclerview.app-customview-poolingcontainer-1.0.0-29 D:\gradle android studio\caches\transforms-3\b6901ea7b7679e8a395fd3fba2c458ea\transformed\customview-poolingcontainer-1.0.0\res
+com.eye.pullrefreshwithrecyclerview.app-fragment-1.3.6-30 D:\gradle android studio\caches\transforms-3\e1467e7620ed65b0f9ec090c601e5f8d\transformed\fragment-1.3.6\res
+com.eye.pullrefreshwithrecyclerview.app-appcompat-1.6.1-31 D:\gradle android studio\caches\transforms-3\f519227ce83c25a4daf72bc8b7b65062\transformed\appcompat-1.6.1\res
+com.eye.pullrefreshwithrecyclerview.app-activity-1.6.0-32 D:\gradle android studio\caches\transforms-3\f90ea4a9753d88de4b0a42a7435534cc\transformed\activity-1.6.0\res

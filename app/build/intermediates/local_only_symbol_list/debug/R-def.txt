@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable facebook
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable instagram
+drawable linkedin
+drawable twitter
+drawable whatsapp
+drawable youtube
+id imageView
+id recyclerView
+id swipeRefreshLayout
+id textView
+layout activity_main
+layout list_item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.PullRefreshWithRecyclerView
+style Theme.PullRefreshWithRecyclerView
+xml backup_rules
+xml data_extraction_rules
