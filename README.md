@@ -12,25 +12,25 @@ When the app is running, you'll see a list of items that can be refreshed by swi
 
 To customize the behavior of the onRefresh() method, implement the SwipeRefreshLayout.OnRefreshListener interface in your activity or fragment and override the onRefresh() method.
 
-public class MyActivity extends AppCompatActivity implements SwipeRefreshLayout.OnRefreshListener {
+    public class MyActivity extends AppCompatActivity implements SwipeRefreshLayout.OnRefreshListener {
 
-    private SwipeRefreshLayout swipeRefreshLayout;
+        private SwipeRefreshLayout swipeRefreshLayout;
 
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_my);
-
-        swipeRefreshLayout = findViewById(R.id.swipe_refresh_layout);
-        swipeRefreshLayout.setOnRefreshListener(this);
+        @Override
+        protected void onCreate(Bundle savedInstanceState) {
+            super.onCreate(savedInstanceState);
+            setContentView(R.layout.activity_my);
+    
+            swipeRefreshLayout = findViewById(R.id.swipe_refresh_layout);
+            swipeRefreshLayout.setOnRefreshListener(this);
+        }
+    
+        @Override
+        public void onRefresh() {
+            // Do something when the user swipes down to refresh
+        }
     }
-
-    @Override
-    public void onRefresh() {
-        // Do something when the user swipes down to refresh
-    }
-}
 
 
 ## 🙏 Credits
-(Pull to Refresh with RecyclerView in Android with Example)[https://www.geeksforgeeks.org/pull-to-refresh-with-recyclerview-in-android-with-example/]
+[Pull to Refresh with RecyclerView in Android with Example](https://www.geeksforgeeks.org/pull-to-refresh-with-recyclerview-in-android-with-example/)
